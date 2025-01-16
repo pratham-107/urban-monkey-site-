@@ -1,5 +1,3 @@
-﻿# urban-monkey-site-
-# urban-monkey-site-
 # Urban Monkey Site
 
 Welcome to the Urban Monkey site repository. This project is a web application for the Urban Monkey brand, showcasing various products and features.
